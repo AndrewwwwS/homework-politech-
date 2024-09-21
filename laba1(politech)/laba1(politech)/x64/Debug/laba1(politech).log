@@ -1,0 +1,3 @@
+﻿  laba1(politech).cpp
+C:\Users\Admin\source\repos\laba1(politech)\laba1(politech).cpp(12,1): error C4700: использована неинициализированная локальная переменная "rn"
+C:\Users\Admin\source\repos\laba1(politech)\laba1(politech).cpp(13,1): error C4700: использована неинициализированная локальная переменная "cos_x"
